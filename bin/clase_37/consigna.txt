@@ -1,0 +1,13 @@
+Realizar una clase llamada 
+Cliente que debe tener los atributos: 
+ID (entero largo), 
+nombre (String), 
+cuenta (Cuenta).
+
+Definir qué tipo de relación existe entre las clases.
+
+Agregar los métodos getters y setters correspondientes 
+Método para crear un objeto Cliente, pidiéndole los datos al usuario. 
+Método para depositar()  en una Cuenta: el método recibe una cantidad de dinero a ingresar y ese monto debe sumarse al saldo actual.
+Método retirar() para la clase Cuenta que permita retirar fondos de la cuenta, restándo el importe del saldo actual.
+Método consultarDatos(): permitirá mostrar todos los datos de la cuenta y del cliente vinculado. 
